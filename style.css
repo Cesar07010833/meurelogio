@@ -24,8 +24,8 @@ body {
 
 .clock {
     display: flex;
-    gap: 2vw; 
-    font-size: 20vw;
+    gap: 2vw; /* Use vw para espaçamento relativo */
+    font-size: 20vw; /* Use vw para tamanho de fonte relativo */
     justify-content: center;
 }
 
